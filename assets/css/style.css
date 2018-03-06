@@ -1,0 +1,31 @@
+
+
+      body { /* Visual */ 
+        background-image: url("../images/skyline-14619__340.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+      
+      }
+
+      .jumbotron {
+        background-color: wheat;
+      }
+      
+      #buttons {
+
+        /* Positioning */
+        margin-left: 100px;
+
+        
+
+      }
+
+      /*button {
+
+        /* Box-model */
+       /* width: 200px;
+        height: 100px;
+
+      
+
+  
